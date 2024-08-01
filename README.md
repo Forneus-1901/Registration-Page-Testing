@@ -1,8 +1,9 @@
 # Registration-Page-Testing
 This is an automation script using Selenium and TestNG to test a register page.
 
-This is an automation script using Selenium and TestNG to test a register page.
+
 testing scope :
+
 - in scope : functions related to register process,
   1- verifiy if all input fields meets the requirements 
      (first name - last name - email - phone - password)
